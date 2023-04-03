@@ -23,11 +23,11 @@
 </div>
 
 <div align="center">
-    <a href="https://wa.clck.bar/79509174660">
+    <a href="https://t.me/Paul_Stepanov">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
          width="52" height="40" alt="telegram logo"/>
     </a>
-    <a href="https://t.me/Paul_Stepanov">
+    <a href="https://wa.clck.bar/79509174660">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
          width="52" height="40" alt="whatsapp logo"/>
     </a>
