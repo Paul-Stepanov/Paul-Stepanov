@@ -10,9 +10,9 @@
 
 ```text
 🧑‍💻 Full-Stack Web Developer with a focus on PHP & Laravel
+✅ Certified Bitrix Developer
 🌐 Building responsive and scalable web applications
 🎯 Passionate about clean code, BEM methodology, and modern CSS
-✅ Certified Bitrix Developer
 📫 Reach me via Telegram — always open to connect
 ```
 
