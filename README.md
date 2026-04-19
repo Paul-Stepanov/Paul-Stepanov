@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;PHP+%2B+Laravel+Enthusiast;Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;PHP+%2B+Laravel+Enthusiast" alt="Typing SVG" />
 </a>
 
 ### 👋 About Me
@@ -19,33 +19,14 @@
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,php,laravel,mysql,webpack,npm,git,github&theme=dark" alt="Tech Stack" />
-
----
-
-### 📊 GitHub Stats
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Paul-Stepanov&theme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=false" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Stepanov&theme=github_dark&hide_border=true&layout=compact&count_private=false&include_all_commits=false" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,vue,php,laravel,mysql,postgres,redis,wordpress,drupal,docker,webpack,npm,git,github&theme=dark" alt="Tech Stack" />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Stepanov&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Paul-Stepanov&theme=github_dark&no-frame=false&no-bg=false&margin-w=8&column=7" alt="Trophies" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2EA44F?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Bitrix-E3005E?style=flat-square&logo=bitrix&logoColor=white" alt="Bitrix" />
+  <img src="https://img.shields.io/badge/DDD-6C3483?style=flat-square&logoColor=white" alt="DDD" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-1174A6?style=flat-square&logoColor=white" alt="Clean Architecture" />
 </div>
 
 ---
@@ -62,9 +43,5 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Paul-Stepanov&icon=0&color=0" alt="Visitors" />
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:0D1117&height=100&section=footer" />
