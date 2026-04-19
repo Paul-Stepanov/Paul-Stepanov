@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;PHP+%2B+Laravel+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;PHP+%2B+Laravel+Enthusiast;Certified+Bitrix+Developer" alt="Typing SVG" />
 </a>
 
 ### 👋 About Me
@@ -12,6 +12,7 @@
 🧑‍💻 Full-Stack Web Developer with a focus on PHP & Laravel
 🌐 Building responsive and scalable web applications
 🎯 Passionate about clean code, BEM methodology, and modern CSS
+✅ Certified Bitrix Developer
 📫 Reach me via Telegram — always open to connect
 ```
 
@@ -19,10 +20,11 @@
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,vue,php,laravel,mysql,postgres,redis,wordpress,drupal,docker,webpack,npm,git,github&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,vue,php,laravel,mysql,postgres,redis,wordpress,docker,webpack,npm,git,github&theme=dark" alt="Tech Stack" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white" alt="Drupal" />
   <img src="https://img.shields.io/badge/CI%2FCD-2EA44F?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Bitrix-E3005E?style=flat-square&logo=bitrix&logoColor=white" alt="Bitrix" />
   <img src="https://img.shields.io/badge/DDD-6C3483?style=flat-square&logoColor=white" alt="DDD" />
