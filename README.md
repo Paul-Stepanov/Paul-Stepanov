@@ -1,37 +1,70 @@
-<h1 align="center">💻 Tech Stack:</h1>
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:0D1117&fontColor=00D4FF&height=180&section=header&text=Paul%20Stepanov&fontSize=38&fontAlignY=32&animation=fadeIn" />
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;PHP+%2B+Laravel+Enthusiast;Frontend+Developer" alt="Typing SVG" />
+</a>
+
+### 👋 About Me
+
+```text
+🧑‍💻 Full-Stack Web Developer with a focus on PHP & Laravel
+🌐 Building responsive and scalable web applications
+🎯 Passionate about clean code, BEM methodology, and modern CSS
+📫 Reach me via Telegram — always open to connect
+```
+
+---
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,php,laravel,mysql,webpack,npm,git,github&theme=dark" alt="Tech Stack" />
+
+---
+
+### 📊 GitHub Stats
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Paul-Stepanov&theme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=false" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Stepanov&theme=github_dark&hide_border=true&layout=compact&count_private=false&include_all_commits=false" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-<img src="https://img.shields.io/badge/BEM-<green>?style=plastic&logoColor=white" height="40" width="52" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" height="40" width="52" alt="laravel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" width="52" alt="webpack logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Stepanov&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<h1 align="center">📊 GitHub Stats:</h1>
+---
+
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Stepanov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="stats"  />  </br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Stepanov&theme=dark&hide_border=false" alt="stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Paul-Stepanov&theme=github_dark&no-frame=false&no-bg=false&margin-w=8&column=7" alt="Trophies" />
 </div>
+
+---
+
+### 📬 Contact Me
 
 <div align="center">
-    <a href="https://t.me/Paul_Stepanov">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
-         width="52" height="40" alt="telegram logo"/>
-    </a>
-    <a href="https://wa.clck.bar/79509174660">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
-         width="52" height="40" alt="whatsapp logo"/>
-    </a>
+  <a href="https://t.me/Paul_Stepanov">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:p.stepanov13@mail.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
-###
+---
 
-[![](https://visitcount.itsvg.in/api?id=Paul-Stepanov&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Paul-Stepanov&icon=0&color=0" alt="Visitors" />
+</div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:0D1117&height=100&section=footer" />
