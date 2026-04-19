@@ -20,7 +20,7 @@
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,vue,php,laravel,mysql,postgres,redis,wordpress,docker,webpack,npm,git,github&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,vue,php,laravel,mysql,postgres,redis,mongodb,elasticsearch,wordpress,docker,webpack,npm,git,github&theme=dark" alt="Tech Stack" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
@@ -41,6 +41,9 @@
   </a>
   <a href="mailto:p.stepanov13@mail.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://vk.com/stepanov_paul">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
   </a>
 </div>
 
